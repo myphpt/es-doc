@@ -1,5 +1,27 @@
-<!--_sidebar.md-->
+# 目录
 
-* Typora+Docsify使用指南
-  * [Flink任务优化](/docs/Flink任务优化.md) <!--注意这里是相对路径-->
-  * [Flink任务调优](/docs/Hive%20分区删除卡死.md)
+[【Elasticsearch开发】摄取节点](./Elasticsearch\【Elasticsearch开发】摄取节点.md)
+[【Elasticsearch开发】文档操作](./Elasticsearch\【Elasticsearch开发】文档操作.md)
+[【Elasticsearch开发】配置约定](./Elasticsearch\【Elasticsearch开发】配置约定.md)
+[【Elasticsearch查询】全文查询](./Elasticsearch\【Elasticsearch查询】全文查询.md)
+[【Elasticsearch查询】查询模式](./Elasticsearch\【Elasticsearch查询】查询模式.md)
+[【Elasticsearch查询】查询环境](./Elasticsearch\【Elasticsearch查询】查询环境.md)
+[【Elasticsearch查询】查询诊断](./Elasticsearch\【Elasticsearch查询】查询诊断.md)
+[【Elasticsearch查询】查询选项](./Elasticsearch\【Elasticsearch查询】查询选项.md)
+[【Elasticsearch查询】深度查询](./Elasticsearch\【Elasticsearch查询】深度查询.md)
+[【Elasticsearch查询】精确查询](./Elasticsearch\【Elasticsearch查询】精确查询.md)
+[【Elasticsearch监控】集群查看](./Elasticsearch\【Elasticsearch监控】集群查看.md)
+[【Elasticsearch管理】分片分配](./Elasticsearch\【Elasticsearch管理】分片分配.md)
+[【Elasticsearch管理】分片重新分配](./Elasticsearch\【Elasticsearch管理】分片重新分配.md)
+[【Elasticsearch管理】备份恢复](./Elasticsearch\【Elasticsearch管理】备份恢复.md)
+[【Elasticsearch管理】安装运行及注意事项](./Elasticsearch\【Elasticsearch管理】安装运行及注意事项.md)
+[【Elasticsearch管理】缓存机制](./Elasticsearch\【Elasticsearch管理】缓存机制.md)
+[【Elasticsearch管理】网络配置](./Elasticsearch\【Elasticsearch管理】网络配置.md)
+[【Elasticsearch管理】节点角色及发现机制](./Elasticsearch\【Elasticsearch管理】节点角色及发现机制.md)
+[【Elasticsearch管理】远程集群](./Elasticsearch\【Elasticsearch管理】远程集群.md)
+[【Elasticsearch索引】Recovery恢复索引](./Elasticsearch\【Elasticsearch索引】Recovery恢复索引.md)
+[【Elasticsearch索引】ReIndex重建索引](./Elasticsearch\【Elasticsearch索引】ReIndex重建索引.md)
+[【Elasticsearch索引】Rollover滚动](./Elasticsearch\【Elasticsearch索引】Rollover滚动、Shrink收缩、Split拆分索引.md)
+[【Elasticsearch索引】索引基础操作](./Elasticsearch\【Elasticsearch索引】索引基础操作.md)
+[【Elasticsearch索引】索引映射](./Elasticsearch\【Elasticsearch索引】索引映射.md)
+[【Elasticsearch索引】索引模板和索引别名](./Elasticsearch\【Elasticsearch索引】索引模板和索引别名.md)
